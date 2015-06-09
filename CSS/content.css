@@ -1,0 +1,17 @@
+@charset "UTF-8";
+#content {
+	background-color: rgba(255,255,255,1);
+	padding-top: 40px;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 60px;
+	height: auto;
+	width: auto;
+	border-radius: 0;
+	align: center;
+}
+#content tbody tr td {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	vertical-align: top;
+	border-width: 0px;
+}

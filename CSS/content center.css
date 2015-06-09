@@ -1,0 +1,10 @@
+@charset "UTF-8";
+#content center {
+	height: auto;
+	width: 50%;
+	margin: 0px;
+	padding: 0px;
+	color: rgba(101,101,101,1.00);
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	align-content: center
+}

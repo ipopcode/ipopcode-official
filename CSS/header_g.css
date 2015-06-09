@@ -1,0 +1,13 @@
+@charset "UTF-8";
+#header_g {
+	width: auto;
+	height: 226px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 50px;
+	text-align: center;
+	background-image: url(../images/summer-promotion_bg.png);
+	background-repeat: repeat-x;
+}

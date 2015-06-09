@@ -1,0 +1,15 @@
+@charset "UTF-8";
+#header_g img {
+	background-image: none;
+	background-repeat: no-repeat;
+	position: relative;
+	height: auto;
+	width: auto;
+	margin-top: 80px;
+	margin-bottom: auto;
+	padding-top: 0px;
+	padding-bottom: auto;
+	min-height: 0px;
+	top: auto;
+	bottom: auto;
+}

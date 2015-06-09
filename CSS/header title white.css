@@ -1,0 +1,7 @@
+@charset "UTF-8";
+#header_title_white {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 55px;
+	color: rgba(255,255,255,1);
+	text-align: center;
+}

@@ -1,0 +1,15 @@
+@charset "UTF-8";
+#footer {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 10px;
+	background-color: rgba(77,77,77,1);
+	height: 45px;
+	width: auto;
+	margin: 0px;
+	padding-top: auto;
+	padding-bottom: 0;
+	padding-left: auto;
+	padding-right: auto;
+	align-content: center;
+	color: rgba(255,255,255,1.00);
+}
